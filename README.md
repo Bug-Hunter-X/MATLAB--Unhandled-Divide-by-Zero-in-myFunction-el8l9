@@ -1,0 +1,1 @@
+This repository demonstrates a common MATLAB error: unhandled division by zero. The file 'bug.m' contains a function with this error. The corrected version is in 'bugSolution.m'. The error occurs when the function receives a zero input; the solution adds a check to prevent division by zero.
